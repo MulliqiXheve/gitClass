@@ -1,2 +1,2 @@
-# gitClass
-Git workshop
+# Workshop
+Tester For GIT Workshop
